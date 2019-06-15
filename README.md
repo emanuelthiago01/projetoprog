@@ -9,7 +9,7 @@ Primeiro de tudo é preciso clicar no botão "começar" para evitar eventuais bu
 #### Quantos as entradas somente o nome receberá caracteres, enquanto o resto receberá números.
 #### A taxa de comissão deve ser digitada em %
 ## 3.0 Salvar e abrir arquivos
-Neste programa é possivel salvar os dados do funcionário ou abri-los em arquivos separados por virgulas, arquivos cvc, entrando na aba "arquivos".
+Neste programa é possivel salvar os dados do funcionário ou abri-los em arquivos separados por virgulas, arquivos cvc, clicando no menu "Arquivo".
 
 ![](imagens/img4.png)
 ## 4.0 Na aba de dados
