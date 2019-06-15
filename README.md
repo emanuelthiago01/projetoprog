@@ -11,7 +11,6 @@ Primeiro de tudo é preciso clicar no botão "começar" para evitar eventuais bu
 #### A taxa de comissão deve ser digitada em %
 ## 3.0 Salvar e abrir arquivos
 Neste programa é possivel salvar os dados do funcionário ou abri-los em arquivos separados por virgulas, arquivos cvc, clicando no menu "Arquivo".
-
 ![](imagens/img4.png)
 ## 4.0 Na aba de dados
 Nesta aba é onde irão ficar listados os funcionários digitados pela entrada, ou abertos por arquivos cvc, também sera possível ordenar os funcionários por nome, id, salario, e produtividade, nesta aba também existe o botão "Limpar Dados" que apaga todos os funcionários já registrados, e não será possível pegar de volta, portanto é preciso ter cuidado.
