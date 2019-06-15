@@ -21,6 +21,7 @@ Nesta aba é onde irão ficar listados os funcionários digitados pela entrada, 
 ![](imagens/img5.png)
 ## 5.0 Na aba de estatísticas
 Nesta aba irá ficar as estatisticas da tabela, quantidade de funcionários registados, média salarial e média da produtividade.
+
 ![](imagens/img6.png)
 ## 6.0 Na aba de edição
 Nesta aba será possível editar o funcionário e remover algum funcionário especifico, aqui será utilizado o id como parâmetro, portanto será necessário que este esteja correto, é recomendável que se clique em "procurar funcionário" antes de apertar qualquer um dos dois botões, pois este irá mostrar se o id digitado existe, e se existe as informações referentes a este ID.
