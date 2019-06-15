@@ -3,7 +3,8 @@
 ## 1.0 Introdução
 Este programa irá fazer o gerenciamento de funcionários de uma loja/empresa, pegando entradas, conforme a figura mostra, e saindo com as saidas salário e produtividade.
 ## 2.0 Começando
-Primeiro de tudo é preciso clicar no botão "começar" para evitar eventuais bugs, após isso é hora de digitar as entradas do funcionário, todas as entradas poderão ser editadas no futuro, com excessão do ID que será utilizado como parâmetro para corrigir as outras entradas, portanto é preciso tomar cuidado na hora de digita-lo, embora será possivel apagar também.
+Primeiro de tudo é preciso clicar no botão "começar" para evitar eventuais bugs, após isso é hora de digitar as entradas do funcionário, todas as entradas poderão ser editadas no futuro, com excessão do ID que será utilizado como parâmetro para corrigir as outras entradas, portanto é preciso tomar cuidado na hora de digita-lo, embora será possivel apagar algum funcionário cadastrado.
+
 ![](imagens/img2.png)
 #### OBS :
 #### Quantos as entradas somente o nome receberá caracteres, enquanto o resto receberá números.
